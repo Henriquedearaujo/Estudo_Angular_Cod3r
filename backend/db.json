@@ -3,11 +3,11 @@
     {
       "id": 1,
       "name": "Caneta BIC Azul",
-      "price": "5.20"
+      "price": "10"
     },
     {
       "id": 2,
-      "name": "Caderno",
+      "name": "Caderno 10 matérias",
       "price": 10.2
     },
     {
@@ -16,14 +16,19 @@
       "price": 20.2
     },
     {
-      "name": "Borracha",
+      "name": "Borracha grande",
       "price": "1.20",
       "id": 4
     },
     {
-      "name": "jj",
-      "price": "55.55",
+      "name": "ghjfg",
+      "price": "452",
       "id": 5
+    },
+    {
+      "name": "gaaaass",
+      "price": "50",
+      "id": 6
     }
   ]
 }
